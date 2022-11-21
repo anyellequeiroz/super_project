@@ -1,2 +1,2 @@
 def say_hello():
-	return "Hello everyone!"
+	return "Hello everyone, my name is Team Mate!"
